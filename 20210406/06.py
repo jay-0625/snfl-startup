@@ -1,0 +1,5 @@
+valueA=int(input("input first value: "))
+valueB=int(input("input second value: "))
+outputA=int(valueA/valueB)
+outputB=int(valueA%valueB)
+print (outputA, outputB)
